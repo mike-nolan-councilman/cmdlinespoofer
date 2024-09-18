@@ -1,2 +1,2 @@
 # cmdlinespoofer
-Canberra BSides Talk
+BSides Canberra 2024 Talk
